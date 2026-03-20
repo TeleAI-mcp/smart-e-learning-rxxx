@@ -1,2 +1,3 @@
-# smart-e-learning-rxxx
-Automated issue comment bot repository
+# Smart E Learning Rxxx
+
+Automated issue comment bot repository.
